@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AR | Legacy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="logo">AR</div>
+        <ul>
+            <li><a href="#origin">Origin</a></li>
+            <li><a href="#rise">Rise to Power</a></li>
+            <li><a href="#peak">Peak</a></li>
+            <li><a href="#conquests">Conquests</a></li>
+            <li><a href="#execution">Execution</a></li>
+            <li><a href="#other">Other</a></li>
+        </ul>
+    </div>
+    <div class="content">
+        <section id="origin"><h1>Origin</h1><p>...</p></section>
+        <section id="rise"><h1>Rise to Power</h1><p>...</p></section>
+        <section id="peak"><h1>Peak</h1><p>...</p></section>
+        <section id="conquests"><h1>Conquests</h1><p>...</p></section>
+        <section id="execution"><h1>Execution</h1><p>...</p></section>
+        <section id="other"><h1>Other</h1><p>...</p></section>
+    </div>
+</body>
+</html>
